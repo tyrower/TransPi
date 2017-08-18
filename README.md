@@ -9,4 +9,4 @@ Python-based FLOSS project to facilitate the translation of educational ressourc
 
 The TransPi Logo is a remix of Creative Commons vector image from [Noun Project](https://thenounproject.com/) - merci [Linseed Studio](https://thenounproject.com/term/lightbulb-droplet/720773/)
 
-With so many inspiring people around and gone before us, if we perspire enough, we may just get somewhere :droplet: :bulb: :globe_with_meridians: :full_moon_with_face: :rocket: :
+With so many inspiring people around & gone before us, if we perspire enough, we may just get somewhere :droplet: :bulb: :globe_with_meridians: :full_moon_with_face: :rocket:
